@@ -1,2 +1,2 @@
 # xv6-Paging
-xv6 with rudamentry pagin implimented
+xv6 with rudamentry paging implemented
